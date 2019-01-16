@@ -1,2 +1,1 @@
-# crud_boilerplate
-Simple CRUD with MERN
+:coffee: Simple CRUD with MERN
