@@ -1,1 +1,1 @@
-# :coffee: Simple CRUD with MERN
+# :pizza::coffee: Simple CRUD with MERN
